@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "tipstep",
+	"version": "1.0.0",
+	"name": "Tipstep",
+	"description": "Adds tooltips to the world.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Tipstep#readme",
+		"issues": "https://github.com/haykam821/Tipstep/issues"
+	},
+	"mixins": [
+		"tipstep.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/tipstep/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
